@@ -1,0 +1,7 @@
+" see image http://cdn-ak.f.st-hatena.com/images/fotolife/o/osyo-manga/20111220/20111220000249.png
+
+"example command
+:Unite -cursor-line-highlight=Normal -winheight=8 -update-time=10 -buffer-name=ora jojo:オラ
+:Unite -cursor-line-highlight=Normal -winheight=8 -update-time=10 -buffer-name=muda jojo:無駄
+:Unite -cursor-line-highlight=Normal -winheight=8 -update-time=10 -buffer-name=dora jojo:ドラ
+
